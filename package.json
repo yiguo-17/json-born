@@ -1,0 +1,11 @@
+{
+  "name": "json-born-solution",
+  "version": "1.0.0",
+  "description": "Just a quick back-end project for reading and writing to a JSON file!",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watch-all main.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

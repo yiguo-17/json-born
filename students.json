@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "name": "Mesuara",
+      "term": 1
+    },
+    {
+      "name": "JD",
+      "term": 2
+    },
+    {
+      "name": "Colin",
+      "term": 1
+    }
+  ]
+}
